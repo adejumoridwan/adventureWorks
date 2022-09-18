@@ -1,0 +1,28 @@
+"sales"
+
+#' sales
+#'
+#' @format A tibble with 60398 rows and 19 variables:
+#' \describe{
+#'   \item{OrderDate}{chr Date and item  was recorded}
+#'   \item{OrderDate Key}{dbl Order Date key} 
+#'   \item{Product Key}{dbl Product ID of an item}
+#'   \item{Customer Key}{dbl Customer ID}
+#'   \item{SalesTerritoryKey}{dbl Sales Territory Key}
+#'   \item{SalesOrderNumber}{dbl Sales Order Number}
+#'   \item{ShipDate}{chr date an item was shipped}
+#'   \item{SalesOrderLineNumber}{dbl denoting monthly price for the 30-40/lb. size class}
+#'   \item{OrderQuantity}{dbl quantity of item ordered}
+#'   \item{UnitPrice}{dbl price of an item per unit in dollars}
+#'   \item{ExtendedAmount}{dbl selling price of an item in dollars}
+#'   \item{UnitPriceDiscountPct}{dbl discounted price per unit price of an item in dollars}
+#'   \item{DiscountAmount}{dbl discounted amount on an item in dollars}
+#'   \item{ProductsStandardCost}{dbl cost price of an item in dollars}
+#'   \item{TotalProductCost}{dbl cost price of an item in dollars}
+#'   \item{SalesAmount}{dbl selling price of an item in dollars}
+#'   \item{TaxAmt}{dbl tax on an item in dollars}
+#'   \item{Freight}{dbl freight on an item in dollars}
+#'   \item{RegionMonthID}{dbl region and month an item was bought}
+#' }
+#' 
+"sales"
