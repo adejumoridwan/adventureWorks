@@ -1,10 +1,20 @@
-# adventureWorks
+## Overview
 
-# About Dataset
+This package contains information about an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles
+336,776 flights in total. To help understand what causes delays, 
+it also includes a number of other useful datasets.
 
-This is a sample for an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles.
+This package provides the following data tables.
 
-## Insalling the data
+* `?sales`: all sales made by the store.
+* `?customers`: information of customers patronizing the store
+* `?products`: information of items sold in the store
+* `?calendar`: calendar information
+* `?terriotry`: information about various territories were sale was made from
+* `?budget`: budget information of the store
+
+
+## Installing the package
 
 ```
 #install remotes package
