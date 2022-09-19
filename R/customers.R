@@ -1,0 +1,22 @@
+#' Customers 
+#'
+#' @format A tibble with 18484 rows and 15 variables:
+#' \describe{
+#'   \item{CustomerKey}{dbl unique ID for each customer}
+#'   \item{GeographyKey}{dbl unique ID for each customer's geographic location} 
+#'   \item{Name}{chr name of customer}
+#'   \item{BirthDate}{chr date of birth of customers}
+#'   \item{MaritalStatus}{chr marital status of customers: Married(M) and Single(S)}
+#'   \item{Gender}{chr gender of customers: Male(M) and Female(F)}
+#'   \item{YearlyIncome}{dbl amount a customer earns yearly in dollars}
+#'   \item{NumberChildrenAtHome}{dbl number of children a customer has}
+#'   \item{Occupation}{chr customer's occupation}
+#'   \item{HouseOwnerFlag}{dbl if a customer has a house or not: 0-No house, 1-Owns House}
+#'   \item{NumberCarsOwned}{dbl number of cars a customer owns}
+#'   \item{AddressLine1}{chr customer's first home address}
+#'   \item{AddresssLine2}{chr customer's second home address}
+#'   \item{Phone}{chr customer's phone number}
+#'   \item{DateFirstPurchase}{chr date of a customer's first purchase}
+#' }
+#' 
+"customers"

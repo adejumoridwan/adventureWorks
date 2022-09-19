@@ -1,0 +1,28 @@
+#' Products 
+#'
+#' @format A tibble with 18484 rows and 21 variables:
+#' \describe{
+#'   \item{ProductKey}{dbl unique ID of an item or a product}
+#'   \item{ProductSubcategoryKey}{dbl unique ID of an item subcategory} 
+#'   \item{ProductName}{chr name of a product}
+#'   \item{StandardCost}{dbl cost price of a product}
+#'   \item{Color}{chr colour of a product}
+#'   \item{SafetyStockLevel}{dbl safety stock level}
+#'   \item{ListPrice}{dbl list price of an item}
+#'   \item{size}{dbl size of an item}
+#'   \item{SizeRange}{chr size range of an item}
+#'   \item{Weight}{dbl weight of an item}
+#'   \item{DaysToManufacture}{dbl number of days to manufacture an item}
+#'   \item{ProductLine}{chr product line of an item}
+#'   \item{DealerPrice}{dbl dealer price of an item}
+#'   \item{Class}{chr class a product belongs to}
+#'   \item{ModelName}{chr model name of an item}
+#'   \item{Description}{chr description of an item}
+#'   \item{Status}{chr status of an item}
+#'   \item{SubCategory}{chr item sub category}
+#'   \item{Category}{chr item category}
+#'   \item{StartDate}{chr}
+#'   \item{EndDate}{chr}
+#' }
+#' 
+"products"
