@@ -1,7 +1,6 @@
 ## Overview
 
-This package contains information about an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles
-336,776 flights in total. To help understand what causes delays, 
+This package contains information about an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles. 
 it also includes a number of other useful datasets.
 
 This package provides the following data tables.
