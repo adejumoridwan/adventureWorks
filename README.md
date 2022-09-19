@@ -19,7 +19,7 @@ library(adventureWorks)
 ```
 ## Authors
 
-* **Adejumo Ridwan Suleiman** - *Initial work* - [adejumoridwan](https://github.com/shashvatshah9)
+* **Adejumo Ridwan Suleiman** - *Initial work* - [adejumoridwan](https://github.com/adejumoridwan)
 
 ## License
 
