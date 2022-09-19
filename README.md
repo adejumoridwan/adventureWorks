@@ -9,7 +9,7 @@ This package provides the following data tables.
 * `?customers`: information of customers patronizing the store
 * `?products`: information of items sold in the store
 * `?calendar`: calendar information
-* `?terriotry`: information about various territories were sales was made from
+* `?territory`: information about various territories were sales was made from
 * `?budget`: budget information of the store
 
 
