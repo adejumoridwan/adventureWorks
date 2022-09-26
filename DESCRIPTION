@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "adejumo999@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0002-2923-2046"))
-Description: This is a sample for an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles.
+Description: This package contains information about an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles. Iit also includes a number of other useful datasets. To read more, check(https://github.com/adejumoridwan/adventureWorks)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

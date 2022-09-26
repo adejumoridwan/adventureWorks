@@ -6,7 +6,7 @@
 \alias{adventureWorks-package}
 \title{adventureWorks: Data Package on Adventure Works Database}
 \description{
-This is a sample for an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles.
+This package contains information about an online transaction processing (OLTP) for a fictitious, multinational manufacturing company called Adventure Works Cycles. Iit also includes a number of other useful datasets. To read more, check(https://github.com/adejumoridwan/adventureWorks)
 }
 \author{
 \strong{Maintainer}: Ridwan Adejumo Suleiman \email{adejumo999@gmail.com} (\href{https://orcid.org/0000-0002-2923-2046}{ORCID})
